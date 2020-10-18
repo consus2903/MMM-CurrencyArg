@@ -7,5 +7,5 @@
 |types|Tipos de dolares a mostrar. Valores posibles: ['oficial', 'blue', 'soja', 'contado con liqui', 'bolsa', 'bitcoin', 'turista']|['oficial', 'blue', 'bolsa', 'turista']|
 
 ### Demo
-
+![Demo](demo/demo.jpg)
  
