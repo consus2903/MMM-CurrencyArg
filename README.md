@@ -1,4 +1,6 @@
 # MMM-CurrencyArg
+### Descripoción
+Modulo de MagicMirror que muestra las cotizaciones de los distintos dolares argentinos en tiempo real.
 ### Config
 |Propiedad|Descripcion|Default|
 |------|-------|------|
